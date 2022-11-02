@@ -5,4 +5,3 @@
 # 忽略 test文件夹下所有文件
 test/
 
-test/*.axs
